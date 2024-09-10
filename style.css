@@ -1,5 +1,5 @@
 body {
-    background-color: seashell;
+    background-color: hsl(25, 100%, 97%);
     padding: 10px;
 }
 
@@ -7,17 +7,26 @@ body {
     font-family:  'Courier New', Courier, monospace;
     text-align: center;
     font-size: 48px;  
-    background-color: rgb(224, 63, 189);
-    color: #fff;
-    outline: auto rgb(20, 177, 224);
+    background-color: hsl(25, 100%, 40%);
+    color: hsl(25, 100%, 97%);
     margin-bottom: 50px;
     box-sizing: border-box;
-    width: 300px;
+    width: 400px;
+    height: 65px;
+    padding-top: 30px;
     margin: 0 auto;
+    margin-bottom: 50px;
 
 
 
 }
+
+.description {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
 .subtitle {
     font-family: 'Courier New', Courier, monospace;
     color: orange;
@@ -30,9 +39,9 @@ body {
 }
 
 .but a {
-    color: rgb(224, 63, 189);
+    color: hsl(25, 100%, 30%);
     font-size: 18px;
-    background-color: aqua;
+    background-color: hsl(25, 100%, 85%);
     text-align: center;  
     text-decoration: solid;
     padding: 1em 2em;
@@ -46,5 +55,5 @@ body {
 }
 .but a:hover {
     color: black;
-    background-color: darkred
+    background-color: peachpuff;
 }
