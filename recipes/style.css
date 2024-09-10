@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategrey;
+}
+
+.title {
+    font-family: sans-serif, Georgia, Times, serif;
+    color: orange;
+    text-align: center;
+    font-size: 48px;
+}
+.subtitle {
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+    text-align: center;
+}
+.recipes li {
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
